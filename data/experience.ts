@@ -37,6 +37,7 @@ export const experience = {
   subtitle: 'THE SIBLING STORY',
   tagline: 'Dos hermanos. Una ciudad. Ningún día normal.',
   heroImage: '/images/ramon-miranda/key-art.png',
+  finalMobileImage: '/images/ramon-miranda/final-mobile.png',
   radioName: 'RM RADIO 98.4',
   radioTrack: '/audio/music.mp3',
   characters: [
