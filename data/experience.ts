@@ -83,7 +83,7 @@ export const experience = {
     { username: '@miranda.afterdark', location: 'Night Market', time: '20:06', text: 'Guardemos esta noche en algún lugar donde no se borre.', likes: '3,016', comments: '104', position: 'center 58%', image: '/images/ramon-miranda/night-market.png' },
   ],
   archiveImages: [
-    { image: '/images/ramon-miranda/key-art.png', position: 'center 56%', label: '01 / ÚLTIMA LUZ' },
+    { image: '/images/ramon-miranda/key-art.png', mobileImage: '/images/ramon-miranda/key-art-mobile.png', position: 'center 56%', label: '01 / ÚLTIMA LUZ' },
     { image: '/images/ramon-miranda/downtown.png', position: 'center 48%', label: '02 / DESPUÉS DE LAS DIEZ' },
     { image: '/images/ramon-miranda/palm-district.png', position: 'center 50%', label: '03 / SIN PRISA' },
     { image: '/images/ramon-miranda/coastal-highway.png', position: 'center 67%', label: '04 / EL CAMINO LARGO' },
